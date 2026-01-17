@@ -1,0 +1,5 @@
+{
+  "name": "ThyroidDATA 2025",
+  "description": "A clinical decision support tool based on the 2025 American Thyroid Association (ATA) Management Guidelines for Differentiated Thyroid Cancer, featuring the DATA framework for diagnosis, assessment, and treatment.",
+  "requestFramePermissions": []
+}
